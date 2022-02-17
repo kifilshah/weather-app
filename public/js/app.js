@@ -1,4 +1,4 @@
-console.log('Client side JS is loaded')
+//console.log('Client side JS is loaded')
 
 // url = 'http://localhost:3000/weather?address=!'
 // fetch(url).then((response)=>{
