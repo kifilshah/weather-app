@@ -1,16 +1,4 @@
-//console.log('Client side JS is loaded')
-
-// url = 'http://localhost:3000/weather?address=!'
-// fetch(url).then((response)=>{
-//     response.json().then((data)=>{
-//         if (data.error) {
-//             console.log(data.error)
-//         } else {
-//             console.log(data.forecast)
-//         }
-//     })
-
-// })
+console.log('Client side JS is loaded')
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
